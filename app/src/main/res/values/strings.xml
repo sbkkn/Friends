@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinVkFriends</string>
+    <string name="hello_click_the_button">Hello! Click the button</string>
+    <string name="click_btn">Войти</string>
+    <string name="search_txt">Enter your query here</string>
+    <string name="txt_friends_no_items">no items</string>
+    <string name="no_friends">No Friends</string>
+    <string name="login_error">incorrect credentials</string>
+</resources>
